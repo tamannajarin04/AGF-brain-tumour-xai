@@ -65,7 +65,7 @@ Neither dataset is redistributed here.
 
 ## Trained weights
 
-The three trained classifiers are available at: **[Zenodo or Kaggle Models link]**
+The three trained classifiers are available at: https://doi.org/10.5281/zenodo.24594903
 
 ## Environment
 
