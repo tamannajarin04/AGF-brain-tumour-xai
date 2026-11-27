@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Agreement-Guided Fusion (AGF) of attribution maps for brain tumour MRI"
+type: software
+authors:
+  - family-names: "Tima"
+    given-names: "Tamanna Jarin"
+    affiliation: "Department of Software Engineering, Daffodil International University"
+  - family-names: "Mahmud"
+    given-names: "Imran"
+    affiliation: "Department of Software Engineering, Daffodil International University"
+year: 2026
+license: MIT
+repository-code: "https://github.com/tamannajarin04/AGF-brain-tumour-xai"
+keywords:
+  - explainable AI
+  - attribution fusion
+  - Grad-CAM++
+  - Integrated Gradients
+  - SmoothGrad
+  - brain tumour MRI
